@@ -1,0 +1,5 @@
+depth,result,nodes_evaluated,nodes_pruned,execution_time
+1,Draw,25,0,0.000118
+2,Draw,65,16,0.000334
+3,Draw,251,51,0.000982
+4,Draw,653,231,0.002727
